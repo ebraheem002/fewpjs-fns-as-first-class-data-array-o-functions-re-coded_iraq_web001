@@ -78,7 +78,7 @@ function unleashDog(dogName,dogBreed){
 
    for(var i=0;i<routine.length;i++){
     
-    return routine[i](Arr[i],Arr2[i])
+   routine[i](Arr[i],Arr2[i])
        
 
    }
